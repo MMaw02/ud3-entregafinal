@@ -1,0 +1,21 @@
+.logout {
+  font-size: medium;
+}
+
+#navegacionBar {
+  background-color: white;
+  box-shadow: 0px 3px 10px rgb(230, 230, 230);
+}
+
+.logout {
+  margin-top: 100px;
+  color: red;
+}
+
+.navbar-brand a {
+  text-decoration: none;
+}
+
+.active {
+  font-weight: bold;
+}
