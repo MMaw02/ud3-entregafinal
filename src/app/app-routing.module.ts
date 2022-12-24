@@ -5,10 +5,8 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { MiProyetoTemplateFormComponent } from './mi-proyeto-template-form/mi-proyeto-template-form.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
-import { PermissionGuard } from './permission.guard';
 import { PieComponent } from './pie/pie.component';
 import { UsuariosComponent } from './usuarios/usuarios.component';
-PermissionGuard
 
 
 const routes: Routes = [

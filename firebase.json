@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/ud3-entregafinal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
